@@ -26,8 +26,9 @@ body {
 .joinChatContainer input {
   width: 210px;
   height: 40px;
-  margin: 7px;
-  border: 2px solid #43a047;
+  margin-top: 7px;
+  margin-left: 57px;
+  border: 2px solid #5a7fa7;
   border-radius: 5px;
   padding: 5px;
   font-size: 16px;
@@ -36,18 +37,19 @@ body {
 .joinChatContainer button {
   width: 225px;
   height: 50px;
-  margin: 7px;
+  margin-top:7px;
+  margin-left: 57px;
   border: none;
   border-radius: 5px;
   padding: 5px;
   font-size: 16px;
-  background: #43a047;
+  background: #5a7fa7;
   color: #fff;
   cursor: pointer;
 }
 
 .joinChatContainer button:hover {
-  background: #2e7d32;
+  background: #415a74;
 }
 
 .chat-window {
