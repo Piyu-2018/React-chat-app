@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   background: #fff;
-  color: #212121;
+  color: #102947;
   font-family: "Open Sans", sans-serif;
   display: grid;
   place-items: center;
@@ -103,7 +103,7 @@ body {
   height: auto;
   min-height: 40px;
   max-width: 120px;
-  background-color: #43a047;
+  background-color: #5a7fa7;
   border-radius: 5px;
   color: white;
   display: flex;
@@ -186,7 +186,7 @@ body {
 }
 
 .chat-window .chat-footer button:hover {
-  color: #43a047;
+  color: #5a7fa7;
 }
 .hide {
   opacity: 0 !important;
